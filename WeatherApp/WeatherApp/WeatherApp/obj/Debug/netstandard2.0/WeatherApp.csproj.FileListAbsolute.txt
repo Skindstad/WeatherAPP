@@ -1,0 +1,14 @@
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\ref\WeatherApp.dll
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\Views\WeatherPage.xaml.g.cs
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\ref\WeatherApp.dll
+C:\Users\JSFr.skp\source\repos\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb

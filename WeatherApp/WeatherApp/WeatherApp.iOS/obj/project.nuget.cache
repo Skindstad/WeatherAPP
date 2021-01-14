@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZ759LlqS5VlJ837GtMe1ERdW0tL8osH1Zt5Fc/K6qNtAlIN7BwG/nA4MMIXg57g9nwlBCudXVW2FBtuBhnAsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JSFr.skp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.6.0 to 1.5.3.2. Reference the package directly from the project to select a different version. \r\n WeatherApp.iOS -> WeatherApp -> Xamarin.Essentials (>= 1.6.0) \r\n WeatherApp.iOS -> Xamarin.Essentials (>= 1.5.3.2)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
