@@ -8394,10 +8394,10 @@ namespace WeatherApp.Droid
 			public const int notify_panel_notification_icon_bg = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int processing = 2131165299;
+			public const int pro = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int processing_2_(1) = 2131165300;
+			public const int processing = 2131165300;
 			
 			// aapt resource value: 0x7F070075
 			public const int tooltip_frame_dark = 2131165301;

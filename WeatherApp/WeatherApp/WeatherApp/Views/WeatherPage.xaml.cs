@@ -19,7 +19,6 @@ namespace WeatherApp.Views
         public WeatherPage()
         {
             InitializeComponent();
-            //GetWeatherInfo();
             ScrollView scrollView = new ScrollView();
             scrollView.Scrolled += ScrollView_Scrolled;
 
@@ -34,50 +33,6 @@ namespace WeatherApp.Views
 
         private string API_KEY = "e20c60c734fb3f34a6dea372c6944e88";
         CancellationTokenSource cts;
-
-        /*private async void GetWeatherInfo()
-        {
-
-            var location = await Geolocation.GetLastKnownLocationAsync();
-
-            if (location != null)
-            {
-                Lat = location.Latitude.ToString();
-                Lon = location.Longitude.ToString();
-            }
-
-            var url = $"http://api.openweathermap.org/data/2.5/weather?lat={Lat}&lon={Lon}&appid={API_KEY}&units=metric";
-
-            var result = await ApiCaller.Get(url);
-
-            if (result.Successful)
-            {
-                try
-                {
-                    var weatherInfo = JsonConvert.DeserializeObject<WeatherInfo>(result.Response);
-                    descriptionTxt.Text = weatherInfo.weather[0].description.ToUpper();
-                    iconImg.Source = $"w{weatherInfo.weather[0].icon}";
-                    cityTxt.Text = weatherInfo.name.ToUpper();
-                    temperatureTxt.Text = weatherInfo.main.temp.ToString("0");
-                    humidityTxt.Text = $"{weatherInfo.main.humidity}%";
-                    pressureTxt.Text = $"{weatherInfo.main.pressure} hpa";
-                    windTxt.Text = $"{weatherInfo.wind.speed} m/s";
-                    cloudinessTxt.Text = $"{weatherInfo.clouds.all}%";
-
-                    var dt = new DateTime().ToUniversalTime().AddSeconds(weatherInfo.dt);
-                    dateTxt.Text = dt.ToString("dddd, MMM dd").ToUpper();
-
-                }
-                catch (Exception ex)
-                {
-                    await DisplayAlert("Weather Info", ex.Message, "OK");
-                }
-            }
-            else
-            {
-                await DisplayAlert("Weather Info", "No weather information found", "OK");
-            }
-        }*/
 
         private void ScrollView_Scrolled(object sender, ScrolledEventArgs e)
         {

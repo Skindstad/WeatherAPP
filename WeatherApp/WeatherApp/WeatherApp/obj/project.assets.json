@@ -681,11 +681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+      "projectUniqueName": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
       "projectName": "WeatherApp",
-      "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+      "projectPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
       "packagesPath": "C:\\Users\\JSFr.skp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
+      "outputPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

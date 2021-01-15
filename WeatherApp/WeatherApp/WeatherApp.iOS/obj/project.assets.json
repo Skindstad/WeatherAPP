@@ -1058,11 +1058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
       "projectName": "WeatherApp.iOS",
-      "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
+      "projectPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
       "packagesPath": "C:\\Users\\JSFr.skp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1083,8 +1083,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
-              "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
+            "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+              "projectPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
             }
           }
         }

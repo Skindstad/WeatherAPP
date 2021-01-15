@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj": {}
+    "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj": {
+    "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
         "projectName": "WeatherApp.Android",
-        "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+        "projectPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
         "packagesPath": "C:\\Users\\JSFr.skp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
-                "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
+              "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+                "projectPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+    "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "projectUniqueName": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "projectPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
         "packagesPath": "C:\\Users\\JSFr.skp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
+        "outputPath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

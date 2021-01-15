@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZ759LlqS5VlJ837GtMe1ERdW0tL8osH1Zt5Fc/K6qNtAlIN7BwG/nA4MMIXg57g9nwlBCudXVW2FBtuBhnAsA==",
+  "dgSpecHash": "Bedl+Lb9LTxrZXlq5vY1L5F+1lKrsmD9dv9mTmK9HBS/EfyWj8Z0JFEjE5vgyrvTtBX13ZjWTc/d69M6aq9I+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JSFr.skp\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\JSFr.skp\\Documents\\GitHub\\WeatherAPP\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JSFr.skp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
